@@ -1,0 +1,48 @@
+$font-stack: Helvetica, sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic:wght@400..700&family=Scheherazade+New:wght@400;500;600;700&display=swap');
+body {
+  font: 100% $font-stack;
+  background-color: #fdf6e3;
+}
+.container {
+  max-width: 65ch;
+  margin-inline: auto;
+  padding-inline: 1.5rem;
+  border-left: 3px dashed #93a1a1;
+  border-right: 3px dashed #93a1a1;
+  
+  p {
+    border: 1px solid #eee8d5;
+    padding: 1rem;
+    border-radius: 4px;
+  }
+}
+
+pre {
+  overflow-x: auto;
+  max-width: 100%;
+  background-color: #073642;
+  color: #fdf6e3;
+  padding: 1rem;
+  border-radius: 4px;
+}
+
+code {
+  background-color: #073642;
+  color: #fdf6e3;
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  font-family: 'Consolas', 'Monaco', monospace;
+  font-size: 0.9em;
+}
+
+pre code {
+  padding: 0;
+  background: none;
+}
+
+.arabic {
+  font-size: 1.5rem;
+  font-family: 'Scheherazade New', sans-serif;
+  font-weight: 600;;
+}
