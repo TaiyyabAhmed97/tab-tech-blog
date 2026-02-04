@@ -3,11 +3,6 @@ title = "Zola blog setup"
 date = 2026-02-03
 +++
 
-<p dir="rtl" lang="ar" class="arabic">
-    السلام عليكم و رحمة الله و بركاته
-</p>
-(May God's Peace and Blessings be upon you)
-
 ## How to setup a blog with Zola
 
 So I just setup this blog with [zola](https://www.getzola.org/), a fantastic cmd line tool that got everything up very quickly. Honestly, their docs were the best resource so head over there and follow the [overview](https://www.getzola.org/documentation/getting-started/overview/).

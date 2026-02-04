@@ -3,11 +3,6 @@ title = "Arabic font setup for html/css"
 date = 2026-02-03
 +++
 
-<p dir="rtl" lang="ar" class="arabic">
-    السلام عليكم و رحمة الله و بركاته
-</p>
-(May God's Peace and Blessings be upon you)
-
 ## Add Arabic font setting in yout html/css
 
 I ran into the issue of setting my specific arabic font on my blog. Here are some steps you can use to setup arabic for your html/css page.
