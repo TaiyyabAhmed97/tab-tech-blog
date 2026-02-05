@@ -26,6 +26,9 @@ theme = "dark"
 ]
 toc = true
 favicon = "/icons/android-chrome-192x192.png"
+stylesheets = [
+  "custom.css"           # static/custom.css
+]
 fancy_code = true
 menu = [
   { name = "/posts", url = "/posts", weight = 1 },
