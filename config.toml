@@ -22,7 +22,7 @@ index_format = "elasticlunr_json"
 theme = "dark"
   socials = [
   { name = "github", url = "https://github.com/TaiyyabAhmed97", icon = "github" },
-  { name = "linkedin", url = "https://www.linkedin.com/in/taiyyab-ahmed-5aa5a7194/", icon = "twitter" },
+  { name = "linkedin", url = "https://www.linkedin.com/in/taiyyab-ahmed-5aa5a7194/", icon = "linkedin" },
 ]
 toc = true
 favicon = "/icons/android-chrome-192x192.png"
