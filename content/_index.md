@@ -21,7 +21,7 @@ template = "homepage.html"
 
 <div class="homepage-hero">
     <h1 class="homepage-hero-title">Taiyyab Ahmed's Tech Blog + Notes on various stuff</h1>
-    <p>I will share my thoughts on software, book reviews, and general tech stuff that I like.</p>
+    <p>My thoughts and notes on arabic, jusrisprudence, exegesis, software, book reviews, and general tech stuff that I like.</p>
 </div>
 
 
